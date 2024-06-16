@@ -24,10 +24,4 @@ Welcome to our Space Invaders clone! This game is a simplified version of the cl
   - Destroy all aliens to win the game.
   - Lose the game if you run out of lives or if an alien reaches the bottom of the screen.
 
-## Installation
-1. Ensure you have Python installed on your system.
-2. Download or clone the repository.
-3. Navigate to the game directory.
-4. Install any required dependencies by running:
-   ```bash
-   pip install -r requirements.txt
+
